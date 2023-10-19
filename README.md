@@ -1,5 +1,5 @@
 # AutoInfEgeSolver
-Bot for problems on the website https://inf-ege.sdamgia.ru/
+Bot for solving problems on the website https://inf-ege.sdamgia.ru/
 
 # How to setup
 ## Download project with git
