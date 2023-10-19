@@ -5,11 +5,19 @@ Bot for solving computer science problems on the website https://inf-ege.sdamgia
 ## Download project with git
 
 ```
-  git clone 
+git clone https://github.com/BonePolk/AutoInfEgeSolver.git
+cd AutoInfEgeSolver
 ```
 
-Then you should take your cookie from https://inf-ege.sdamgia.ru/
+## Install dependencies
+run in root directory of project
+```
+pip install -r requirements.txt
+```
 ## How to get cookie
+
+Go to https://inf-ege.sdamgia.ru/
+
 1.press f12 to open dev tools in your browser
 
 2.open tab network
@@ -38,9 +46,12 @@ Then you should take your cookie from https://inf-ege.sdamgia.ru/
 
 ![image](https://github.com/BonePolk/AutoInfEgeSolver/assets/87945722/2f542031-b1fe-4a8a-8911-b97641cf423d)
 
-## Now you should install dependencies
-
-run in root directoty of project
-'''
-  
-'''
+# How to run
+Simply run in root directory of project
+```
+python3 main.py
+```
+or
+```
+python main.py
+```
