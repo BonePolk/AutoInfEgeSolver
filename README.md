@@ -1,5 +1,5 @@
 # AutoInfEgeSolver
-Bot for solving computer science problems on the website https://inf-ege.sdamgia.ru/
+Bot for problems on the website https://inf-ege.sdamgia.ru/
 
 # How to setup
 ## Download project with git
